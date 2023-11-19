@@ -1,0 +1,20 @@
+.userinfo{
+    display: flex;
+    margin-left: 240px;
+    margin-bottom: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+    margin-top: 38px;
+    margin-right: 50px;
+}
+.info{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.bio{
+    margin-top: 30px;
+}
+.comp{
+    margin-top: 7px;
+}
